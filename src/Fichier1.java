@@ -1,1 +1,2 @@
-public class Fichier1 {}
+public class Fichier1 {
+}
